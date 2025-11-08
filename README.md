@@ -1,16 +1,6 @@
-# financeapp
+# Splash-Screen
+![splash](https://github.com/user-attachments/assets/b9ad29bc-649d-4c2c-a67f-b420e8897231)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Home-Page
+![hp1](https://github.com/user-attachments/assets/ca81d38c-c9e5-4264-8e21-82d77ac76458)
+![hp2](https://github.com/user-attachments/assets/1f732288-675b-44ab-a9b1-692fea841ff6)
